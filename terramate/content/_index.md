@@ -13,18 +13,36 @@ Aspiring Terramate Intern with a passion for cloud technologies
 {{% section %}}
 ## My Professional Journey So Far
 
-Metabase Logo, AWS Logo, Django , Postgres , Python Open ai ,Ubuntu , docker , salesforce  
+hubspot
+
 <div class="image-container">
     <img src="./images/aws-svgrepo-com.svg" alt="Image 1" style="max-height: 100px; border: none; box-shadow: none;">
-    <img src="image2.jpg" alt="Image 2" style="border: none; box-shadow: none;">
-    <img src="image3.jpg" alt="Image 3">
-    <!-- Add more images as needed -->
+    <img src="./images/cloudflare-svgrepo-com.svg" alt="Image 1" style="max-height: 100px; border: none; box-shadow: none;">
+    <img src="./images/docker-svgrepo-com.svg" alt="Image 1" style="max-height: 100px; border: none; box-shadow: none;">
+    <img src="./images/linux-svgrepo-com.svg" alt="Image 1" style="max-height: 100px; border: none; box-shadow: none;">
+    <img src="./images/metabase-svgrepo-com.svg" alt="Image 1" style="max-height: 100px; border: none; box-shadow: none;">
+    <img src="./images/openai-svgrepo-com.svg" alt="Image 1" style="max-height: 100px; border: none; box-shadow: none;">
+    <img src="./images/postgresql-logo-svgrepo-com.svg" alt="Image 1" style="max-height: 100px; border: none; box-shadow: none;">
+    <img src="./images/python-svgrepo-com.svg" alt="Image 1" style="max-height: 100px; border: none; box-shadow: none;">
+    <img src="./images/salesforce-svgrepo-com.svg" alt="Image 1" style="max-height: 100px; border: none; box-shadow: none;">
+    <img src="./images/salesforce-svgrepo-com.svg" alt="Image 1" style="max-height: 100px; border: none; box-shadow: none;">
+
+    
 </div>
 
 
 ---
-#### Startup Experience
+#### Personal Startup Experience
+django tailwind 
 
+
+<div class="image-container">
+    <img src="./images/postgresql-logo-svgrepo-com.svg" alt="Image 1" style="max-height: 100px; border: none; box-shadow: none;">
+    <img src="./images/python-svgrepo-com.svg" alt="Image 1" style="max-height: 100px; border: none; box-shadow: none;">
+    <img src="./images/salesforce-svgrepo-com.svg" alt="Image 1" style="max-height: 100px; border: none; box-shadow: none;">
+
+    
+</div>
 Founded a platform startup, developed a customer facing MVP in Django integrated with a custom Salesforce Data Model and the Fieldservice module .
 
 
