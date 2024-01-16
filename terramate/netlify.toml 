@@ -1,5 +1,5 @@
 [build]
-command = "hugo -b $URL -s terramate"
+command = "hugo -s terramate"
 publish = "terramate/public"
 
 [context.production.environment]
