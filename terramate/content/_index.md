@@ -13,25 +13,23 @@ Aspiring Terramate Intern with a passion for cloud technologies
 {{% section %}}
 ## My Professional Journey So Far
 
-Metabase Logo, AWS Logo, Django , Postgres , Python Openm ai ,Ubuntu , docker , salesforce  
+Metabase Logo, AWS Logo, Django , Postgres , Python Open ai ,Ubuntu , docker , salesforce  
+<div class="image-container">
+    <img src="./images/aws-svgrepo-com.svg" alt="Image 1" style="max-height: 100px; border: none; box-shadow: none;">
+    <img src="image2.jpg" alt="Image 2" style="border: none; box-shadow: none;">
+    <img src="image3.jpg" alt="Image 3">
+    <!-- Add more images as needed -->
+</div>
+
+
+---
+#### Startup Experience
+
+Founded a platform startup, developed a customer facing MVP in Django integrated with a custom Salesforce Data Model and the Fieldservice module .
+
 
 ---
 
-#### Cloud Infrastructure Management
-
-Led migration from EC2 to ECS, focusing on scalability and efficiency.
-
-Implemented Docker solutions.
-
----
-
-#### Data Tool Development
-
-Developed a data aggregation tool using web scraping and REST APIs.
-
-Integrated OpenAI API for data enrichment.
-
----
 
 #### Data Analysis and Reporting
 
@@ -41,9 +39,19 @@ Connected to AWS RDS PostgreSQL for efficient data storage and querying.
 
 ---
 
-#### Startup Experience
+#### Data Tool Development
 
-Founded a platform startup, developed a customer facing MVP in Django integrated with a custom Salesforce Data Model and the Fieldservice module .
+Developed a data ingestion tool using web scraping and REST APIs.
+
+Integrated OpenAI API for data enrichment.
+
+---
+#### Cloud Infrastructure Management
+
+Led migration from EC2 to ECS, focusing on scalability and efficiency.
+
+Implemented Docker solutions.
+
 
 {{% /section %}}
 
